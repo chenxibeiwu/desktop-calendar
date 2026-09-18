@@ -43,13 +43,17 @@
 
 ## 下载使用
 
-到本仓库的 **Releases** 页面下载最新版的 zip，解压后双击 `桌面月历.exe` 即可。
+**[点这里直接下载最新版](https://github.com/chenxibeiwu/desktop-calendar/releases/latest)**
+
+下载后解压，双击里面的 `桌面月历.exe` 即可。
 
 不需要装 Python，不需要联网。首次启动时月历会自动滑出来几秒，托盘也会弹一条使用提示。
 
 > 只支持 **Windows 10 / 11**，Mac 和手机用不了。
 >
 > 注意：解压后整个文件夹都要保留，不能只拿走 exe，旁边的 `_internal` 文件夹是必须的。
+
+历史版本都在 [Releases](https://github.com/chenxibeiwu/desktop-calendar/releases) 页面。
 
 ## 从源码运行
 
