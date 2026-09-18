@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 打包产物
+*.zip
+*.exe
+
+# 本机数据（不要提交自己的日程）
+tasks.json
+settings.json
+backups/
